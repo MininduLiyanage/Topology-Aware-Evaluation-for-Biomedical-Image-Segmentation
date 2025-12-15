@@ -9,14 +9,18 @@ The code in this repository focuses on 2D retinal vessel segmentation evaluation
 ## What is Included in This Repository
 
 ✔ 2D retinal vessel evaluation on the DRIVE dataset
+
 ✔ Implementation of:
   - Betti number and clDice-based connectivity analysis
   - Chamfer distance for spatial discontinuity analysis
+    
 ✔ Evaluation of three segmentation frameworks:
   - M2U-Net
   - DRIU
   - ERFNet
+    
 ✔ Comparison of  Pixel-wise metrics with  Continuity and Topology-aware metrics
+
 ✔ Scripts for metric computation, comparison, and visualization
 
 This repository supports the 2D experimental results and tables reported in the paper.
